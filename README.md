@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Abdullah
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in app development and web development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Vs code
 - 📫 How to reach me?
 - Contact me on:
